@@ -94,7 +94,6 @@ Welcome to my Red Team Portfolio! I specialize in adversary simulation, penetrat
 - **Atomic Red Team**
 - **SQLMap**
 - **Custom Python scripts (Privilege escalation, phishing automation, SQL injection)**
-- 
 
 ### Techniques (MITRE ATT&CK):
 - **Initial Access (T1566):** Spearphishing Attachment,  Valid Accounts
