@@ -119,5 +119,5 @@ Welcome to my Red Team Portfolio! I specialize in adversary simulation, penetrat
 ## 📧 Contact
 
 Feel free to reach out for collaboration or consulting opportunities:
-- **Email:** your.email@example.com
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
+- **Email:** md.sadiqul.islam.sakif@g.bracu.ac.bd
+- **LinkedIn:** Sadiqul Sakif(https://www.linkedin.com/in/sadiqulsakif)
